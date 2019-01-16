@@ -3,6 +3,7 @@
     <div>
       <ul>
         <li>sand</li>
+        <li>bananas</li>
         <li>water</li>
       </ul>
   </body>
